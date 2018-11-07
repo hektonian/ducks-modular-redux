@@ -112,6 +112,12 @@ npm install -g battlecry
 cry download erikras/ducks-modular-redux
 cry init duck
 ```
+or saga-ducks:
+```sh
+npm install -g battlecry
+cry download hektonian/ducks-modular-redux
+cry init saga-duck
+```
 
 Run `cry --help` to check more info about the generators available;
 
